@@ -6,7 +6,7 @@ I study Sofware Product Management and Business from LUT-University, Finland.
 
 Skills: REACT / JS / HTML / CSS / WORDPRESS
 
-- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning more about React and DevOps
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jarkk0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jarkko-peltonen/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jarkkopeltonen/)  
