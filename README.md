@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Jarkko
 #### I am Junior Front End Developer
-![I am Junior Front End Developer](https://github.com/Jarkk0/Jarkk0/blob/main/JarkkoPic.png)
+![I am Junior Front End Developer](https://github.com/Jarkk0/Jarkk0/blob/main/JarkkoPiccc.png)
 
 I study Sofware Product Management and Business from LUT-University, Finland. 
 
